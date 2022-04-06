@@ -1,0 +1,15 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/bin/Debug/net5.0/PracticaIntermedia1.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/bin/Debug/net5.0/PracticaIntermedia1.runtimeconfig.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/bin/Debug/net5.0/PracticaIntermedia1.runtimeconfig.dev.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/bin/Debug/net5.0/PracticaIntermedia1.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/bin/Debug/net5.0/ref/PracticaIntermedia1.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/bin/Debug/net5.0/PracticaIntermedia1.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/PracticaIntermedia1.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/PracticaIntermedia1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/PracticaIntermedia1.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/PracticaIntermedia1.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/PracticaIntermedia1.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/PracticaIntermedia1.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/ref/PracticaIntermedia1.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/PracticaIntermedia1.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/PracticaIntermedia1/PracticaIntermedia1/obj/Debug/net5.0/PracticaIntermedia1.genruntimeconfig.cache
